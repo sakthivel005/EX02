@@ -42,7 +42,7 @@ class LaptopAdmin(admin.ModelAdmin):
 ````
 ## OUTPUT
 
-![Screenshot_20230401_114606](https://user-images.githubusercontent.com/120550359/229970463-84b7b25a-5a29-4842-a5b9-7e4059d901a0.png)
+
 
 
 
