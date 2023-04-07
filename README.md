@@ -44,7 +44,8 @@ class LaptopAdmin(admin.ModelAdmin):
 
 
 
-![Screenshot_20230401_114606](https://user-images.githubusercontent.com/120550359/230115606-d07924ba-9f79-4804-80c4-80f81c89bb90.png)
+
+
 
 
 ## RESULT
