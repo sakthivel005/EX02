@@ -28,17 +28,17 @@ Login in to admin using your superuser account and populate the records.
 from django.db import models
 from django.contrib import admin
 # Create your models here.
-class Laptop(models.Model):
-    Productid= models.CharField(max_length=100,primary_key = True)
-    Brandname = models.CharField(max_length=100)
-    Modelname = models.CharField(max_length=80)
-    Os = models.CharField(max_length=100)
-    Colour = models.CharField(max_length=100)
-    Price = models.IntegerField()
+class Student(models.Model):
+    studentname = models.CharField(max_length=100,primary_key= True)
+    refno = models.CharField(max_length=100)
+    lastname= models.CharField(max_length=80)
+    emailid = models.EmailField()
+    age=models.CharField(max_length=10)
+    mobile=models.CharField(max_length=10)
 
     
-class LaptopAdmin(admin.ModelAdmin):
-    list_display = ('Productid','Brandname','Modelname','Os','Colour','Price')
+class StudentAdmin(admin.ModelAdmin):
+    list_display = ('studentname','refno','lastname','emailid','age','mobile')
 ````
 ## OUTPUT
 
