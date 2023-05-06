@@ -44,7 +44,8 @@ class StudentAdmin(admin.ModelAdmin):
 
 ![4a0fcd8c-7c20-45a3-a2b2-6b50450efa7a](https://user-images.githubusercontent.com/120550359/230556586-e4f77efe-a04f-4ee9-b968-d05e85fe8f3f.jpg)
 
-![632d6262-169b-40b3-a880-97a40c2fbb33](https://user-images.githubusercontent.com/120550359/230556598-bf1e3421-2423-4a59-b800-8df31da06108.jpg)
+![username](https://user-images.githubusercontent.com/120550359/236637534-7ab679ec-2699-4405-89d7-90e708e630e5.jpg)
+
 
 
 
